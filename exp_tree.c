@@ -41,7 +41,7 @@ char* ch_to_str(char c) {
 		case 'n': return "ATOMIC n"; break;
 		case 'o': return "ATOMIC o"; break;
 		case 'p': return "ATOMIC p"; break;
-		case 'q': return "ATOMIC q)"; break;
+		case 'q': return "ATOMIC q"; break;
 		case 'r': return "ATOMIC r"; break;
 		case 's': return "ATOMIC s"; break;
 		case 't': return "ATOMIC t"; break;
